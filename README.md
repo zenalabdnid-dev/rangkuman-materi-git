@@ -15,3 +15,6 @@ Belajar perintah dasar GIT
 Belajar BRANCH
 - Mempelajari Konsep Branch
 - Praktek Branch
+
+Belajar GIT GUI
+- Mempelajari Konsep GIT GUI
