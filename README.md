@@ -11,3 +11,7 @@ Belajar perintah dasar GIT
 - GIT remote
 - GIT push
 - GIT pull
+
+Belajar BRANCH
+- Mempelajari Konsep Branch
+- Praktek Branch
